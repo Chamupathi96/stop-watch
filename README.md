@@ -2,7 +2,6 @@
 
 This project was a Stop-watch. The Stop-watch was developed by using Reactjs, TypeScript, and TailwindCss. This Stop-watch is able to:
 
-- Add, remove, and change food items details
 - Start 
 - Stop
 - Reset
