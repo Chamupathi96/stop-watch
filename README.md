@@ -16,15 +16,20 @@ To set up this application, follow these steps:
     git clone https://github.com/Chamupathi96/stop-watch.git
     ```
 
-2. Build the project from the parent folder
+2. Build the project 
 
     ```bash
     npm install
     ```
 
-3. Run the AppInitializerWrapper class
+3. Run the Project
 
     ```bash
     npm run dev
     ```
+# Project Demo
+
+
+
+https://github.com/user-attachments/assets/ae2b5a1d-1ddf-4575-9a10-125555021a1a
 
