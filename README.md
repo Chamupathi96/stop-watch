@@ -1,8 +1,30 @@
-# React + Vite
+# Stop-watch
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project was a Stop-watch. The Stop-watch was developed by using Reactjs, TypeScript, and TailwindCss. This Stop-watch is able to:
 
-Currently, two official plugins are available:
+- Add, remove, and change food items details
+- Start 
+- Stop
+- Reset
+  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+To set up this application, follow these steps:
+
+1. Clone the project
+
+    ```bash
+    git clone https://github.com/Chamupathi96/stop-watch.git
+    ```
+
+2. Build the project from the parent folder
+
+    ```bash
+    npm install
+    ```
+
+3. Run the AppInitializerWrapper class
+
+    ```bash
+    npm run dev
+    ```
+
